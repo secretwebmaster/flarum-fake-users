@@ -1,0 +1,27 @@
+{
+    "name": "secretwebmaster/flarum-fake-users",
+    "description": "Create fake users at backend",
+    "type": "flarum-extension",
+    "keywords": ["flarum", "fake", "users"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "secretwebmaster",
+            "email": "earnbysharr2016@gmail.com"
+        }
+    ],
+    "require": {
+        "flarum/core": "^1.0"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Fake user generator",
+            "category": "feature",
+            "icon": {
+                "name": "far fa-user",
+                "backgroundColor": "#83AF9B",
+                "color": "#fff"
+            }
+        }
+    }
+}

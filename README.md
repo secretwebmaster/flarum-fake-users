@@ -8,13 +8,13 @@ A [Flarum](http://flarum.org) extension.
 Install manually with composer:
 
 ```sh
-composer require secretwebmaster/flarum-fake-user:"*"
+composer require secretwebmaster/flarum-fake-users:"*"
 ```
 
 ### Updating
 
 ```sh
-composer update secretwebmaster/flarum-fake-user
+composer update secretwebmaster/flarum-fake-users
 ```
 # Links
-- Packagist - [secretwebmaster/flarum-fake-user](https://packagist.org/packages/secretwebmaster/flarum-fake-user)
+- Packagist - [secretwebmaster/flarum-fake-users](https://packagist.org/packages/secretwebmaster/flarum-fake-users)
